@@ -69,7 +69,7 @@ Q2.	A) Create three directory a b and c and create a.txt,b.txt and c.txt
         ANS:-> mv b c
 
 	C)Create alias of ls -lh command to your name.
-        ANS:->alias Akshay="ls -lh"
+        ANS:->alias Vaibhav="ls -lh"
            
 
 	D)Change Directory name a to cdac.
@@ -185,7 +185,7 @@ Q6. Use echo to list the all files of /etc/ directory with extension name .conf
 Ans:--> find /etc -type f -name "*.conf"
 
 Q7. Use echo to append your name to a.txt
-Ans:--> echo 'Akshay' >> a.txt
+Ans:--> echo 'Vaibhav' >> a.txt
 
 ==================================================================================
 
